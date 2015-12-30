@@ -1,4 +1,4 @@
-Substrate	pSite	Kinase
+Substrate	Phosphorylation site	Kinase
 Q96FF9	S21	P06493
 O94763	T333	P49760
 P23588	S497	P04049

@@ -1,3 +1,4 @@
+Protein	Phosphorylation site
 P62328	S2
 P62328	S31
 P62328	T34

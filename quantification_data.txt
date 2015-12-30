@@ -1,4 +1,4 @@
-Uni_pSite or Uni	description	uniprot_id	pSite	log2(ratio)	significance_A
+Phosphoproteins and PTM sites	description	Uniprot ID	Phosphorylation site	log2(ratio)	significance A
 P62328-S2	thymosin beta-4 [Homo sapiens]	P62328	S2	-0.016989736	0.473428516
 P62328-S31	thymosin beta-4 [Homo sapiens]	P62328	S31	0.868185649	0.036251725
 P62328-T34	thymosin beta-4 [Homo sapiens]	P62328	T34	0.868185649	0.036251725
